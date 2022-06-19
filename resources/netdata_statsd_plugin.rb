@@ -15,6 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+provides :netdata_statsd_plugin
 resource_name :netdata_statsd_plugin
 
 default_action :create

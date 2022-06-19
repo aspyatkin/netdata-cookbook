@@ -15,6 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+provides :netdata_config
 resource_name :netdata_config
 
 default_action :create

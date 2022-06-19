@@ -15,6 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+provides :netdata_python_plugin
 resource_name :netdata_python_plugin
 
 default_action :create
